@@ -51,7 +51,7 @@ This project was designed to help sales managers, executives, and stakeholders q
 📚 How to Use
 
 1. Download or clone the repository:
-2. git clone [https://github.com/your-username/blinkit-sales-dashboard.git](https://github.com/your-username/blinkit-sales-dashboard.git)
+2. git clone [https://github.com/your-username/blinkit-sales-dashboard.git](https://github.com/mohammedmohammed1/BlinkIT-Business-Analytics-Dashboard/blob/main/Dashboard%20of%20blinkit.pbix)
 3. Open the dashboard file using Power BI / Tableau / Excel.
 4. Explore the dashboard by interacting with filters and visualizations.
 
