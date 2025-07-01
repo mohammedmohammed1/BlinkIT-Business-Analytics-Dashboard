@@ -40,6 +40,7 @@ This project was designed to help sales managers, executives, and stakeholders q
 - Source: Internal BlinkIT sales dataset / Public dataset / Sample data
 - Format: CSV / Excel
 - Size:Approximately  10 MB
+- Screenshot of Dashboard("C:\Users\moham\OneDrive\Documents\Power BI Pro\Screenshot 2025-07-01 103350.png")
 
 📈 Project Workflow
 
